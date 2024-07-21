@@ -4,5 +4,5 @@ An Static Website of an Imaginary Restaurant
 
 ## Screenshots
 
-![Output Screenshot](https://github.com/Vsurya30/GPTclone/blob/main/chatgptclone.png)
+![Output Screenshot](output/SEVEN-SPICES-150x150.png)
 ![](https://github.com/Vsurya30/GPTclone/blob/main/chatgptclone2.png)
